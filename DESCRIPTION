@@ -1,0 +1,13 @@
+Package: DExponencial2
+Type: Package
+Title: Realiza Distribución Exponencial
+Version: 0.1.0
+Author: Itzael Arreola
+Maintainer: The package maintainer <itzaelarreola@gmail.com>
+Description: Este paquete realiza una distribucion exponencial y calcula la frecuencia de la mortalidad en función del tiempo
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends: 
+  ggplot2 (>= 3.4.2)
+RoxygenNote: 7.2.3
